@@ -41,7 +41,9 @@ body{
 	margin:2% 2% 2% 2%;
 	border:2px solid black;
 }
-
+.item .content{
+      padding:10px;
+}
 .item .section_row{
       display:block;
       height:30px;
