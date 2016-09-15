@@ -54,7 +54,6 @@ body{
       width:100px;
       border-left:2px solid black;
       border-bottom:2px solid black;
-      text-align:center;
 }
 
 .yellow{
